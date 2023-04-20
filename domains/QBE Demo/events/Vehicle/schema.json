@@ -1,0 +1,210 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "policyNumber": {
+            "type": "string"
+        },
+        "productType": {
+            "type": "string"
+        },
+        "ageBand": {
+            "type": "string"
+        },
+        "gender": {
+            "type": "string"
+        },
+        "driverLicense": {
+            "type": "string"
+        },
+        "occupationGroup": {
+            "type": "string"
+        },
+        "ncdYears": {
+            "type": "number"
+        },
+        "ncdType": {
+            "type": "string"
+        },
+        "county": {
+            "type": "string"
+        },
+        "namedDrivers": {
+            "type": "string"
+        },
+        "numDrivers": {
+            "type": "number"
+        },
+        "licenseYears": {
+            "type": "string"
+        },
+        "vehicleAge": {
+            "type": "string"
+        },
+        "vehicleType": {
+            "type": "string"
+        },
+        "secondHandImport": {
+            "type": "string"
+        },
+        "engineSize": {
+            "type": "string"
+        },
+        "fuelType": {
+            "type": "string"
+        },
+        "vehicleValue": {
+            "type": "string"
+        },
+        "vehicleModifications": {
+            "type": "string"
+        },
+        "manufacturerSecurity": {
+            "type": "string"
+        },
+        "vehicleGroup": {
+            "type": "string"
+        },
+        "secondVehicle": {
+            "type": "string"
+        },
+        "parkingType": {
+            "type": "string"
+        },
+        "mileage": {
+            "type": "string"
+        },
+        "numConv": {
+            "type": "string"
+        },
+        "convType": {
+            "type": "string"
+        },
+        "penaltyPoints": {
+            "type": "number"
+        },
+        "claimsCount": {
+            "type": "number"
+        },
+        "claimsType": {
+            "type": "string"
+        },
+        "claimsCost": {
+            "type": "string"
+        },
+        "claimPrevYear": {
+            "type": "string"
+        },
+        "disability": {
+            "type": "string"
+        },
+        "membership": {
+            "type": "string"
+        },
+        "membershipTenure": {
+            "type": "string"
+        },
+        "memberCallouts": {
+            "type": "number"
+        },
+        "home": {
+            "type": "string"
+        },
+        "numProducts": {
+            "type": "string"
+        },
+        "lastYearChannel": {
+            "type": "string"
+        },
+        "numQuotes": {
+            "type": "string"
+        },
+        "classOfUse": {
+            "type": "string"
+        },
+        "invitePremBand": {
+            "type": "string"
+        },
+        "numInsurersQuoting": {
+            "type": "string"
+        },
+        "currentInsurer": {
+            "type": "string"
+        },
+        "cheapestInsurerInvite": {
+            "type": "string"
+        },
+        "incCheapest": {
+            "type": "string"
+        },
+        "paymentTypeLastYear": {
+            "type": "string"
+        },
+        "distNet1To2": {
+            "type": "string"
+        },
+        "yearsWithIncumbent": {
+            "type": "string"
+        },
+        "prevInsurer": {
+            "type": "string"
+        },
+        "totalInsurerDisc": {
+            "type": "string"
+        },
+        "proactiveDiscAvailable": {
+            "type": "string"
+        },
+        "reactiveDiscAvailable": {
+            "type": "string"
+        },
+        "reactiveDiscLastYear": {
+            "type": "string"
+        },
+        "yoyNetPremium": {
+            "type": "string"
+        },
+        "acceptToRenewalDateLastYear": {
+            "type": "string"
+        },
+        "myLastYear": {
+            "type": "string"
+        },
+        "mtaInPrevYear": {
+            "type": "string"
+        },
+        "numDroppedProductsLastYear": {
+            "type": "string"
+        },
+        "renewalMonth": {
+            "type": "string"
+        },
+        "policyRenewed": {
+            "type": "string"
+        },
+        "BooleanResponse (2)": {
+            "type": "string"
+        },
+        "CountIn": {
+            "type": "string"
+        },
+        "Response": {
+            "type": "string"
+        },
+        "BooleanResponse": {
+            "type": "string"
+        },
+        "Index": {
+            "type": "string"
+        },
+        "first": {
+            "type": "string"
+        },
+        "i.first": {
+            "type": "string"
+        },
+        "IP": {
+            "type": "string"
+        }
+    }
+}
