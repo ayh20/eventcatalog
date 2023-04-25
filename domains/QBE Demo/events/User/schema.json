@@ -1,0 +1,126 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "IP": {
+            "type": "string"
+        },
+        "acceptToRenewalDateLastYear": {
+            "type": "number"
+        },
+        "ageBand": {
+            "type": "string"
+        },
+        "cheapestInsurerInvite": {
+            "type": "string"
+        },
+        "claimPrevYear": {
+            "type": "boolean"
+        },
+        "claimsCost": {
+            "type": "string"
+        },
+        "claimsCount": {
+            "type": "number"
+        },
+        "claimsType": {
+            "type": "string"
+        },
+        "classOfUse": {
+            "type": "string"
+        },
+        "convType": {
+            "type": "string"
+        },
+        "county": {
+            "type": "string"
+        },
+        "currentInsurer": {
+            "type": "string"
+        },
+        "disability": {
+            "type": "boolean"
+        },
+        "distNet1To2": {
+            "type": "string"
+        },
+        "driverLicense": {
+            "type": "string"
+        },
+        "gender": {
+            "type": "boolean"
+        },
+        "home": {
+            "type": "boolean"
+        },
+        "incCheapest": {
+            "type": "number"
+        },
+        "invitePremBand": {
+            "type": "string"
+        },
+        "lastYearChannel": {
+            "type": "string"
+        },
+        "licenseYears": {
+            "type": "string"
+        },
+        "memberCallouts": {
+            "type": "number"
+        },
+        "membership": {
+            "type": "boolean"
+        },
+        "membershipTenure": {
+            "type": "string"
+        },
+        "mileage": {
+            "type": "string"
+        },
+        "mtaInPrevYear": {
+            "type": "boolean"
+        },
+        "myLastYear": {
+            "type": "boolean"
+        },
+        "ncdType": {
+            "type": "string"
+        },
+        "numConv": {
+            "type": "number"
+        },
+        "numDroppedProductsLastYear": {
+            "type": "number"
+        },
+        "occupationGroup": {
+            "type": "string"
+        },
+        "paymentTypeLastYear": {
+            "type": "string"
+        },
+        "penaltyPoints": {
+            "type": "number"
+        },
+        "prevInsurer": {
+            "type": "string"
+        },
+        "proactiveDiscAvailable": {
+            "type": "number"
+        },
+        "productType": {
+            "type": "string"
+        },
+        "reactiveDiscAvailable": {
+            "type": "number"
+        },
+        "reactiveDiscLastYear": {
+            "type": "number"
+        },
+        "totalInsurerDisc": {
+            "type": "number"
+        },
+        "yoyNetPremium": {
+            "type": "number"
+        }
+    }
+}
